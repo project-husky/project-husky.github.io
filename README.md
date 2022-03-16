@@ -47,12 +47,13 @@ if we draw our interest.
 The development of the project is driven by the contributers, who actively use
 the husky projects in real life projects.
 
-The project is under the umbrella of two organizations which are actively driving
-the standardization in the healthcare industry:
+The project is hosted under the umbrella of two organizations which are actively
+driving the standardization in the healthcare industry:
 
 [IHE Suisse](https://www.ihe-suisse.ch/) is the national section of IHE
 International in Switzerland and actively promoting the use of the profiles of
 IHE International in the Swiss healthcare market.
 
 [eHealth Suisse](https://www.e-health-suisse.ch/) is the swiss competence and
-coordination centre of the Swiss confederation and the cantons.
+coordination centre of the Swiss confederation and the cantons and maintains
+the national profiles for healthcare interoperability.
