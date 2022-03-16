@@ -38,7 +38,7 @@ above integration methods are currently in use by contributers. You'll find link
 to their experience reports below.  
 
 If we draw your interest, please check out the husky
-[installation guide](https://github.com/project-husky/husky/blob/master/docs/Installation.md).      
+[getting started guide](./getting_started.md).      
 
 
 ## Behind the curtain
