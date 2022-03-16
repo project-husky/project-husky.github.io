@@ -28,7 +28,7 @@ of the underlying IHE Profiles, but the adpation to other national extensions
 should be quite simple.    
 
 
-### Additional information
+### Additional information
 
 You may find additional or accompanying information on one of the following pages:
 
