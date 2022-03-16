@@ -43,4 +43,4 @@ Swiss EPR, the
 [general information](https://www.e-health-suisse.ch/technik-semantik/epd-anbindung.html)
 and the
 [commented examples](https://github.com/ehealthsuisse/EPD-by-example/blob/main/README.md#swiss-epr-transactions) 
-might by helpful.
+might be of help for you.
