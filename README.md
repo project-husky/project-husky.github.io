@@ -8,9 +8,12 @@ are the foundation of many infrastructures to exchange helathcare information
 The intention is to enable developer and vendors to quickly implement the
 required [IHE Profiles](https://profiles.ihe.net) to connect to the exchange
 infrastructures freeing them to implement all the details of the interfaces
-and messages. Although it is recommended to study the underlying specifications,
-the intention of husky project is to provide a low barrier access which requires
-only basic knowlegde of actors and transactions of the underlying IHE profiles.
+and messages.
+
+Although it is strongly recommended to study the underlying profiles and
+specifications, the intention of husky project is to provide a low barrier
+access which requires only basic knowlegde of actors and transactions of
+the underlying IHE profiles.
 
 
 ## How to use
@@ -31,7 +34,7 @@ infrastructure.
 Each of the above variants have their advantages but also pitfalls and you may
 choose based on your own requirements and preferred technologies.
 
-Both of the above intergration methods are currently in use by contributer.
+Both of the above integration methods are currently in use by contributer.
 You'll find links to their experience reports below.       
 
 
