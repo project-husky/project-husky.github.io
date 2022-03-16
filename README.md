@@ -2,7 +2,7 @@
 
 The husky project (a synonym for heath usablity key) is intended to be
 the key to unlock the door to the world of IHE XDS.b Affinity Domains, which
-are the foundation of many infrastructures to exchange helathcare information
+are the foundation of many infrastructures to exchange healthcare information
 (like the Swiss EPR and ELGA in Austria).  
 
 The intention is to enable developer and vendors to quickly implement the
