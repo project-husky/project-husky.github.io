@@ -12,6 +12,7 @@ and messages. Although it is recommended to study the underlying specifications,
 the intention of husky project is to provide a low barrier access which requires
 only basic knowlegde of actors and transactions of the underlying IHE profiles.
 
+
 ## How to use
 
 The husky project provides a software library written in the Java programming
@@ -27,16 +28,17 @@ the Java API to connect to the health exchange infrastructure.
 favorite API technology to the IHE profiles required by the health exchange
 infrastructure.
 
-Each of the above usages have their advantages and pitfalls and you may choose
-based on your own requirements and preferred technologies.
+Each of the above variants have their advantages but also pitfalls and you may
+choose based on your own requirements and preferred technologies.
 
 Both of the above intergration methods are currently in use by contributer.
 You'll find links to their experience reports below.       
 
-## Behind the curtain
+
+## Behind the curtain
 
 The development of the project is driven by the contributers, who actively use
-the husky library in real world projects.
+the husky projects in real life projects.
 
 The project is under the umbrella of two organizations which are actively driving
 the standardization in the healthcare industry:
