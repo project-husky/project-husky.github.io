@@ -15,7 +15,7 @@ You'll find the list of profiles currently supported by the project in the
 [README](https://github.com/project-husky/husky#implemented-ihe-profiles)
 file of the project and some additional information, if you follow the links.
 
-All implemented profiles are accompanied by intergration tests which show the
+All supported profiles are accompanied by intergration tests which show the
 basic usage. The integration tests are performed against the
 [EPR Reference environment](https://github.com/ehealthsuisse/EPD-by-example/blob/main/files/gazelle.md#epr-reference-environment). This may provide a good starting point.
 
