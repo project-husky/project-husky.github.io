@@ -19,7 +19,8 @@ the underlying IHE profiles.
 ## How to use
 
 The husky project provides a software library written in the Java programming
-language. It provides a thin layer on top of the more generic IPF framework,
+language. It provides a thin layer on top of the more generic
+[IPF framework](http://oehf.github.io/ipf/ipf-platform-camel-ihe/index.html),
 which contributes the core implementation of the IHE transactions.
 
 To use the husky library with your application to options are at hand:
