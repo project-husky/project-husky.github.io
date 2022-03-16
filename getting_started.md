@@ -16,12 +16,12 @@ You'll find the list of profiles currently supported by the project in the
 file of the project and some additional information, if you follow the links.
 
 All implemented profiles are accompanied by intergration tests which show the
-basic usage. The integration tests are performed against the Gazelle Test
-environment. This may provide a good starting point.
+basic usage. The integration tests are performed against the
+[EPR Reference environment](https://github.com/ehealthsuisse/EPD-by-example/blob/main/files/gazelle.md#epr-reference-environment). This may provide a good starting point.
 
 You may switch to the EPR Playground test environment by changing the endpoint
-URL of the transactions. Please checkout the URL published by the EPR Playground
-[here](https://epdplayground.ch/index.php?title=End_points_%26_Transactions).
+URL of the transactions. Please checkout the URL published by the
+[EPR Playground](https://github.com/ehealthsuisse/EPD-by-example/blob/main/files/playground.md#epr-playground).
 
 Please note, that both test environments implement the Swiss national extensions
 of the underlying IHE Profiles, but the adpation to other national extensions
