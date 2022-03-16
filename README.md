@@ -35,7 +35,11 @@ Each of the above variants have their advantages but also pitfalls and you may
 choose based on your own requirements and preferred technologies.
 
 Both of the above integration methods are currently in use by contributer.
-You'll find links to their experience reports below.       
+You'll find links to their experience reports below.  
+
+Please check out the husky
+[install guide](https://github.com/project-husky/husky/blob/master/docs/Installation.md)
+if we draw our interest.      
 
 
 ## Behind the curtain
