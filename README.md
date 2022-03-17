@@ -52,5 +52,5 @@ coordination centre of the Swiss confederation and the cantons and maintains
 the national profiles for healthcare interoperability.
 
 The project is hosted under the umbrella of [IHE Suisse](https://www.ihe-suisse.ch/)
-is the national section of IHE International in Switzerland and actively promoting
+is the country organization IHE in Switzerland and is actively promoting
 the use of the profiles of IHE International in the Swiss healthcare market.
