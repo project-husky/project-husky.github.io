@@ -13,3 +13,6 @@ However, as is customary for FOSS, the relevant licences for free software apply
 No. But by their nature, free open source projects involve an element of give and take.
 It makes sense to work on functionalities and modules on a common basis so that they are open to all users. This also applies to extensions.
 Naturally, commercial products that have to use parts of the HUSKY project don’t have to be disclosed.
+
+### I’d like to learn more. Are training courses on the HUSKY project available?
+Currently there is no training programme for the HUSKY project. However, you can find documentation for developers on [GitHub](https://github.com/project-husky/husky#the-husky-library) and contact us at husky@ihe-suisse.ch if you have questions about the project.
