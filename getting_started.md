@@ -39,8 +39,5 @@ You may find additional or accompanying information on one of the following page
 [Supplements for Trial Implementation](https://profiles.ihe.net/ITI/#1.5).
 
 - If you are looking for information on the application of the profiles for the
-Swiss EPR, the
-[general information](https://www.e-health-suisse.ch/technik-semantik/epd-anbindung.html)
-and the
-[commented examples](https://github.com/ehealthsuisse/EPD-by-example/blob/main/README.md#swiss-epr-transactions) 
-might be of help for you.
+Swiss EPR, the [general information](https://www.e-health-suisse.ch/technik-semantik/epd-anbindung.html)
+and the [commented examples](https://github.com/ehealthsuisse/EPD-by-example/blob/main/README.md#swiss-epr-transactions) might be of help for you.
