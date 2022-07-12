@@ -15,9 +15,9 @@ You'll find the list of profiles currently supported by the project in the
 [README](https://github.com/project-husky/husky#implemented-ihe-profiles)
 file of the project and some additional information, if you follow the links.
 
-All supported profiles are accompanied by intergration tests which show the
+All supported profiles are accompanied by integration tests which show the
 basic usage. The integration tests are performed against the
-[EPR Reference environment](https://github.com/ehealthsuisse/EPD-by-example/blob/main/files/gazelle.md#epr-reference-environment). This may provide a good starting point.
+[EPR Reference environment](https://github.com/ehealthsuisse/EPD-by-example/blob/main/files/gazelle.md#epr-reference-environment). This may provide a good starting point. You find a list of links to the code of the integrations tests for the basic transactions [here](https://github.com/project-husky/project-husky.github.io/blob/main/links_2_tests.md).
 
 You may switch to the EPR Playground test environment by changing the endpoint
 URL of the transactions. Please checkout the URL published by the
