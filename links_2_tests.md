@@ -5,11 +5,8 @@ This file collects links to integration tests for the basic transaction to quick
 Used to interchange the local patient id with the global patient id used in the community incl. additional id's, i.e. the EPR-SPID. You can use 
 [PixV3QueryTest](https://github.com/project-husky/husky-integration-tests/tree/master/src/test/java/org/projecthusky/communication/integration/PixV3QueryTest.java) to start with.
 
-
-(https://github.com/project-husky/husky-integration-tests/blob/master/husky-communication/husky-communication-gen/src/test/java/org/husky/communication/integration/PixV3QueryTest.java)
-
 ### Registry Stored Query 
-Used to find Document Metadata which include the data required to retrieve a document. Use the [ConvenienceCommunicationQueryDocumentsTest](https://github.com/project-husky/husky/blob/master/husky-communication/husky-communication-gen/src/test/java/org/husky/communication/integration/ConvenienceCommunicationQueryDocumentsTest.java) to start with. 
+Used to find Document Metadata which include the data required to retrieve a document. Use the [ConvenienceCommunicationQueryDocumentsTest](https://github.com/project-husky/husky-integration-tests/blob/master/src/test/java/org/projecthusky/communication/integration/ConvenienceCommunicationQueryDocumentsTest.java) to start with. 
 
 ### Retrieve Documents
 Used to retrieve a document (as binary) from a repository. Use the [ConvenienceCommunicationRetrieveDocumentsTest](https://github.com/project-husky/husky/blob/master/husky-communication/husky-communication-gen/src/test/java/org/husky/communication/integration/ConvenienceCommunicationRetrieveDocumentsTest.java) to start. 
