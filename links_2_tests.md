@@ -19,5 +19,5 @@ ATNA Logs should be written automatically when calling the transaction. A test f
 
 ### Get X-User Assertion
 XUA (short for X User Assertion) defines to transactions. While the first is just adding the Assertion to the SOAP security header, 
-the second is a transaction to exchange the Identity Assertion retrieved from the IdP to the X-User Assertion required for authorization. A test for the latter is the [XuaClientTest](https://github.com/project-husky/husky/blob/master/husky-communication/husky-xua/husky-xua-ch-impl/src/test/java/org/husky/xua/communication/xua/impl/ch/integration/XuaClientTest.java).
+the second is a transaction to exchange the Identity Assertion retrieved from the IdP to the X-User Assertion required for authorization. A test for the latter is the [XuaClientTest](https://github.com/project-husky/husky-integration-tests/blob/master/src/test/java/org/projecthusky/xua/integration/XuaClientTest.java).
 
